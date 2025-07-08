@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 17 years old and a systems development student at the Federal Institute of São Paulo.<br>💻Programming since 2020, in the middle of the Pandemic. Always seeking to evolve<br>👾I have experience with robotics and competitive programming, I really like to do several bootcamps.<br>🥇medalist and participant in scientific olympiads, such as OBA, and advanced stage participations in OBR and OBMEP.<br>
+I'm a 18 years old and a systems development student at the Federal Institute of São Paulo.<br>💻Programming since 2020, in the middle of the Pandemic. Always seeking to evolve<br>👾I have experience with robotics and competitive programming, I really like to do several bootcamps.<br>🥇medalist and participant in scientific olympiads, such as OBA, and advanced stage participations in OBR and OBMEP.<br>
 
 
 ## 🌐 Socials:
